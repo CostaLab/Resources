@@ -15,30 +15,30 @@ https://costalab.ukaachen.de/svn/
 ---
 
 **costalab tools @ github**
-https://costalab.github.io/sc2marker/
-https://costalab.github.io/CimpleG/
-https://costalab.github.io/CrossTalkeR/
-https://costalab.github.io/scMEGA/
-https://costalab.github.io/sigurd/
-https://github.com/CostaLab/MutationCorrelationNextflow
-https://costalab.github.io/scrna_seurat_pipeline/
-https://github.com/CostaLab/scrna_python_pipeline
-https://github.com/CostaLab/bulk_RNASeq
+- https://costalab.github.io/sc2marker/
+- https://costalab.github.io/CimpleG/
+- https://costalab.github.io/CrossTalkeR/
+- https://costalab.github.io/scMEGA/
+- https://costalab.github.io/sigurd/
+- https://github.com/CostaLab/MutationCorrelationNextflow
+- https://costalab.github.io/scrna_seurat_pipeline/
+- https://github.com/CostaLab/scrna_python_pipeline
+- https://github.com/CostaLab/bulk_RNASeq
 
 ---
 
 **costalab tools @ readthedocs.io**
-https://scaccordion.readthedocs.io/en/latest/
-https://nichesphere.readthedocs.io/en/latest/
-https://pilot.readthedocs.io/en/latest/
-https://pycrosstalker.readthedocs.io/en/stable/
-https://phlower.readthedocs.io/en/latest/
+- https://scaccordion.readthedocs.io/en/latest/
+- https://nichesphere.readthedocs.io/en/latest/
+- https://pilot.readthedocs.io/en/latest/
+- https://pycrosstalker.readthedocs.io/en/stable/
+- https://phlower.readthedocs.io/en/latest/
 
 ---
 
 **costalab @ tutorials**
-https://github.com/CostaLab/VT3-ISMB-ECCB
-https://costalab.ukaachen.de/svn/RGT/courses/
+- https://github.com/CostaLab/VT3-ISMB-ECCB
+- https://costalab.ukaachen.de/svn/RGT/courses/
 
 ---
 
@@ -68,8 +68,8 @@ https://docs.google.com/presentation/d/1Hm50Ls9x7icYnek70MMtAPQMkCcLysUv/edit?us
 ---
 
 **costalab @ templates**
-https://github.com/CostaLab/RawPaperTemplate
-https://github.com/CostaLab/CostaLab_PhD_Thesis_Template
+- https://github.com/CostaLab/RawPaperTemplate
+- https://github.com/CostaLab/CostaLab_PhD_Thesis_Template
 
 ---
 
