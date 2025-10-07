@@ -14,7 +14,8 @@ https://costalab.ukaachen.de/svn/
 
 ---
 
-**costalab tools @ github**
+## costalab tools @ github
+
 - https://costalab.github.io/sc2marker/
 - https://costalab.github.io/CimpleG/
 - https://costalab.github.io/CrossTalkeR/
@@ -27,7 +28,8 @@ https://costalab.ukaachen.de/svn/
 
 ---
 
-**costalab tools @ readthedocs.io**
+## costalab tools @ readthedocs.io
+
 - https://scaccordion.readthedocs.io/en/latest/
 - https://nichesphere.readthedocs.io/en/latest/
 - https://pilot.readthedocs.io/en/latest/
@@ -36,11 +38,13 @@ https://costalab.ukaachen.de/svn/
 
 ---
 
-**costalab @ tutorials**
+## costalab tutorials
 - https://github.com/CostaLab/VT3-ISMB-ECCB
 - https://costalab.ukaachen.de/svn/RGT/courses/
 
 ---
+
+## RWTH online services
 
 **RWTH cluster status:**
 https://maintenance.rz.rwth-aachen.de/ticket/status/messages/14-rechner-cluster
@@ -50,7 +54,8 @@ https://maintenance.rz.rwth-aachen.de/ticket/status/messages
 
 ---
 
-**Package develpment:**
+## Package develpment:
+
 - **R package development recommendations:**
 https://docs.google.com/presentation/d/112PqbwX_bwVuwYKA80Tm6Iewzr96b7JTq7Smt8M9dnw/edit?usp=sharing
 
@@ -59,7 +64,8 @@ https://docs.google.com/presentation/d/141m6WfybNXmV-1L3T6Yzi8WhSzEtY3CA2Ohywkxp
 
 ---
 
-**ICG HPCs:**
+## ICG HPCs
+
 - **Data Management Plan**
 https://docs.google.com/document/d/1BH0aWpoq9qq0s7HZut-ZTuiKJgUgdPG--fYhifLnLMI/edit?usp=sharing
 - **HPC 2 – What is it and how to use it?**
@@ -67,13 +73,15 @@ https://docs.google.com/presentation/d/1Hm50Ls9x7icYnek70MMtAPQMkCcLysUv/edit?us
 
 ---
 
-**costalab @ templates**
+## costalab @ templates 
+
 - https://github.com/CostaLab/RawPaperTemplate
 - https://github.com/CostaLab/CostaLab_PhD_Thesis_Template
 
 ---
 
-**Miscellaneous**
+## Miscellaneous
+
 - **Comprehensive list of color palettes in R:**
 https://github.com/EmilHvitfeldt/r-color-palettes?tab=readme-ov-file
 - **Color palette generator:**
